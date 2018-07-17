@@ -1,0 +1,50 @@
+<ProviderDirectory>
+  <Service>
+    <name>Counseling</name>
+    <code>200000</code>
+    <fee>5999</fee>
+    <status>true</status>
+  </Service>
+  <Service>
+    <name>Detox</name>
+    <code>300000</code>
+    <fee>30090</fee>
+    <status>false</status>
+  </Service>
+  <Service>
+    <name>Group Therapy</name>
+    <code>500000</code>
+    <fee>999</fee>
+    <status>true</status>
+  </Service>
+  <Service>
+    <name>Gymnasium</name>
+    <code>400000</code>
+    <fee>1499</fee>
+    <status>true</status>
+  </Service>
+  <Service>
+    <name>Hot Tub</name>
+    <code>800000</code>
+    <fee>499</fee>
+    <status>true</status>
+  </Service>
+  <Service>
+    <name>Massage</name>
+    <code>100000</code>
+    <fee>6999</fee>
+    <status>true</status>
+  </Service>
+  <Service>
+    <name>Sauna</name>
+    <code>600000</code>
+    <fee>999</fee>
+    <status>true</status>
+  </Service>
+  <Service>
+    <name>Spa</name>
+    <code>700000</code>
+    <fee>4999</fee>
+    <status>true</status>
+  </Service>
+</ProviderDirectory>

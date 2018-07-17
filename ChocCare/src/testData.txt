@@ -1,0 +1,3 @@
+This is a data file saved in the Jar file!
+This is useful for test cases for user output functions--you can save output here, delimited by special characters.
+Don't try to write data here during program execution!
